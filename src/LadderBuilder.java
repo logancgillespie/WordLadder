@@ -103,7 +103,6 @@ public class LadderBuilder {
                     finished = true;
 
                 } else {
-                    //TODO: this needs to be switched to the "right"
                     oneAway = this.getWordsOneAway(curWord);
 
                     for (String w : oneAway) {
