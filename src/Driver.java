@@ -12,7 +12,6 @@ public class Driver {
 
     private static final String USAGE_MSG = "usage: java Driver <filename> " +
             "<start> <end>\n";
-
     /**
      * Helper method to print out the usage message
      */
